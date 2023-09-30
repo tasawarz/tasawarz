@@ -1,4 +1,5 @@
-[![MasterHead](https://www.linkedin.com/in/zoya-tasawar/overlay/background-image/)](https://www.linkedin.com/in/zoya-tasawar/)
+[![MasterHead](![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/tasawarz/tasawarz/assets/119436229/58a34900-7644-45da-af83-1c2c8446916d)
+
 <h1 align="center">Hi 👋, I'm Zoya Tasawar</h1>
 <h3 align="center">Mastering Data Science: Python, R, SQL, Tableau, and Machine Learning Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://academy.vertabelo.com/blog/how-to-become-a-data-analyst/How-to-Become-a-Data-Analyst_hu5cf6d2fae9993b23146dfd2adc166044_197627_980x400_fill_box_center_2.png">
