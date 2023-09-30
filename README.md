@@ -1,4 +1,4 @@
-[![MasterHead](![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/tasawarz/tasawarz/assets/119436229/58a34900-7644-45da-af83-1c2c8446916d)
+(![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://github.com/tasawarz/tasawarz/assets/119436229/58a34900-7644-45da-af83-1c2c8446916d)
 
 <h1 align="center">Hi 👋, I'm Zoya Tasawar</h1>
 <h3 align="center">Mastering Data Science: Python, R, SQL, Tableau, and Machine Learning Expert</h3>
