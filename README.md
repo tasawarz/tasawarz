@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFvEsLocPo/R5mc39E7LVXAXuSc63oIqA/view?utm_content=DAFvEsLocPo&utm_campaign=designshare&utm_medium=link&utm_source=viewer)]
+[![MasterHead](https://www.linkedin.com/in/zoya-tasawar/overlay/background-image/)]
 <h1 align="center">Hi 👋, I'm Zoya Tasawar</h1>
 <h3 align="center">Mastering Data Science: Python, R, SQL, Tableau, and Machine Learning Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://academy.vertabelo.com/blog/how-to-become-a-data-analyst/How-to-Become-a-Data-Analyst_hu5cf6d2fae9993b23146dfd2adc166044_197627_980x400_fill_box_center_2.png">
